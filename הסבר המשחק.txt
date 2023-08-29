@@ -1,0 +1,18 @@
+בס"ד
+עברית:
+משחק שעובד על מיומנות המשתמש.
+יש להתחמק מהלבנים שנופלות.
+באמצעות החצים 'ימינה' 'ושמאלה' עם המקש של האות 'ל'.
+המשחק עובד על זמן וככל שחולף הזמן בשעון שבצד שמאל למעלה הרמת קושי עולה.
+השחקן נפסל כאשר הוא נפגש עם לבנה.
+
+English:
+A game that works on user skill.
+Avoid the falling bricks.
+using the arrows 'right' 'and left' with the key of the letter 'l'.
+The game works on time and as time passes in the clock on the top left, the difficulty level increases.
+The player was disqualified when he met with a brick.
+
+
+
+
